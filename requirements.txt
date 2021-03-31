@@ -4,7 +4,7 @@
 click==6.7
 dhash==1.1
 isbnlib==3.7.1
-lxml==4.6.2
+lxml==4.6.3
 pymarc==3.1.6
 sqlitedict==1.5.0
 tqdm==4.14.0
